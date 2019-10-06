@@ -91,7 +91,7 @@ public class Server {
 		String song = "";
 		
 		try {
-			br = new BufferedReader(new FileReader("100worst.txt"));
+			br = new BufferedReader(new FileReader("../100worst.txt"));
 			while((line = br.readLine()) != null){
 				if(!(line.isEmpty())){
 					if(nextLine == false){
