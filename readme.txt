@@ -1,3 +1,5 @@
+A basic Client - Server setup, written in Java
+
 To run Server and Client successfully:
 
 - Open Server bash file first, if you open Client bash file it will fail to connect
